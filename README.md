@@ -7,3 +7,5 @@ Don't forget to install:
       // npm install nodemon
       // npm install --save sequelize
       // npm install --save mysql2
+      // npm install body-parser
+      // npm install express-handlebars
